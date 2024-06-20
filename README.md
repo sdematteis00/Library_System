@@ -12,11 +12,11 @@ This library management system allows you to manage the book collection of a lib
 - <h4>MY SQL</h4>
 
 ## Program walk-through:
-<blockquote>
-  <img src="https://i.imgur.com/HboIYqj.png">  </blockquote>
-<blockquote>
-<img src="[https://imgur.com/zesoeg5](https://github.com/sdematteis00/Library_System/assets/160670359/a8d0c0dd-0bed-4ea6-900a-3135c63a6980)">
- </blockquote>
+
+<img src="https://i.imgur.com/HboIYqj.png">  </blockquote>
+
+<img src="http://ecopas.altervista.org/ezgif.com-video-to-webp-converter-2.webp">
+
 
 
 
