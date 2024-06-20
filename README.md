@@ -15,4 +15,10 @@ This library management system allows you to manage the book collection of a lib
 <blockquote>
   <img src="https://i.imgur.com/HboIYqj.png">  </blockquote>
 <blockquote>
+<img src="[https://imgur.com/zesoeg5](https://github.com/sdematteis00/Library_System/assets/160670359/a8d0c0dd-0bed-4ea6-900a-3135c63a6980)">
  </blockquote>
+
+
+
+
+
